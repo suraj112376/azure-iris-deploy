@@ -1,0 +1,9 @@
+name: iris-env
+dependencies:
+  - python=3.9
+  - scikit-learn
+  - numpy
+  - pandas
+  - pip
+  - pip:
+      - azureml-defaults
